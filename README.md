@@ -8,5 +8,5 @@ The Code was developed in GoogleColab with the use of a free GPU service.
 This proof of concept code, demontrate that the detectron2 model has enough flexibility to be deployed on medical imaging with expected good results.
 Here some of the results.
 
-![hello](images/Detectron2.jpeg).
+![hello](images/Detectron2.jpg).
 
