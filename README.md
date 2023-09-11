@@ -6,7 +6,7 @@ Seen the little amount of training data, the software made a very good job in de
 The Code was developed in GoogleColab with the use of a free GPU service.
 
 This proof of concept code, demontrate that the detectron2 model has enough flexibility to be deployed on medical imaging with expected good results.
-Here some of the results.
+Here some of those.
 
 ![hello](images/Detectron2.jpg).
 
